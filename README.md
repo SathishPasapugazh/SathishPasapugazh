@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SathishPasapugazh
-- 👀 I’m Web Development
-- 🌱 I’m currently React
+- 👀 I’m a  Web Developer
+- 🌱 I’m currently  learning React
 - 📫 Reach me @ saisathish2508@gmail.com
 
 <!---
